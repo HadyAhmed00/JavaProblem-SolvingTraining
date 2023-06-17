@@ -1,2 +1,18 @@
-# JavaProblem-SolvingTraining
-LeetCode Problem Solutions in Java This repository contains my solutions to various LeetCode problems. LeetCode is a platform for practicing coding skills through solving algorithmic problems. Here, I document my solutions to these problems, allowing me to track my progress and share my approach with others.
+# LeetCode Problem Solutions
+
+This repository contains my solutions to various LeetCode problems. Each day, I solve a new problem and document it here. The problems are organized by month and day for easy navigation.
+
+## Table of Contents
+## June 2023
+
+### Day 16
+- [Valid Palindrome](src/Jun/Day16/ValidPalindrome.java)
+
+
+### Day 17
+- [Make Array Strictly Increasing](src/Jun/Day17/MakeArrayStrictlyIncreasing.java)
+- [Single Number](src/Jun/Day17/SingleNumber.java)
+
+
+
+
