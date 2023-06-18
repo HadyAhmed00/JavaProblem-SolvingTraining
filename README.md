@@ -12,6 +12,9 @@ This repository contains my solutions to various LeetCode problems. Each day, I 
 ### Day 17
 - [Make Array Strictly Increasing](src/Jun/Day17/MakeArrayStrictlyIncreasing.java)
 - [Single Number](src/Jun/Day17/SingleNumber.java)
+### Day 18
+- [Valid Parentheses](src/Jun/Day18/ValidParentheses.java)
+- [Merge Two Sorted Lists](src/Jun/Day18/MergeTwoSortedLists.java)
 
 
 
