@@ -15,7 +15,23 @@ This repository contains my solutions to various LeetCode problems. Each day, I 
 ### Day 18
 - [Valid Parentheses](src/Jun/Day18/ValidParentheses.java)
 - [Merge Two Sorted Lists](src/Jun/Day18/MergeTwoSortedLists.java)
+### Day 19
+- [BestTimeToBuyAndSellStock](src/Jun/Day19/BestTimeToBuyAndSellStock.java)
+- [ValidAnagram](src/Jun/Day19/ValidAnagram.java)
+### Day 22
+- [InvertBinaryTree](src/Jun/Day22/InvertBinaryTree.java)
 
+### Day 24
+- [BinarySearch](src/Jun/Day24/BinarySearch.java)
+- [FloodFill](src/Jun/Day24/FloodFill.java)
 
+## July 2023
+
+**I didn't solve things that month because of some implications and less interest
+There is no problem with losing interest, but there is a problem with giving up, so here we are again**
+
+## August 2023
+### Day 1
+- [Combinations](src/Aug/Day1/Combinations.java)
 
 
