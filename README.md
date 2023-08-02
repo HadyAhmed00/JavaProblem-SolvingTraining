@@ -33,5 +33,7 @@ There is no problem with losing interest, but there is a problem with giving up,
 ## August 2023
 ### Day 1
 - [Combinations](src/Aug/Day1/Combinations.java)
+### Day 2 
+- [Permutations](src/Aug/Day2/Permutations.java)
 
 
