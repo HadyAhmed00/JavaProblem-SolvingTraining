@@ -43,3 +43,5 @@ There is no problem with losing interest, but there is a problem with giving up,
 - [Unique Binary Search Trees II](src/Aug/Day5/UniqueBinarySearchTreesII.java)
 ### Day 6
 - [Number of Music Playlists](src/Aug/Day6/NumberOfMusicPlaylists.java)
+### Day 7
+- [Search a 2D Matrix](src/Aug/Day7/Search2DMatrix.java)
